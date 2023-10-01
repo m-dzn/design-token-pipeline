@@ -18,5 +18,9 @@
   "xs": {
     "value": 12,
     "type": "sizing"
+  },
+  "radius-md": {
+    "value": 12,
+    "type": "borderRadius"
   }
 }
